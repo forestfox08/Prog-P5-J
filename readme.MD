@@ -42,3 +42,11 @@ Heb gekeken wat het was maar kon het probleem niet identificeren via breakpoints
 
 (niet mythe project trouwens, dit is mijn TD game)
 
+
+## PERIODE 2, JAAR 2
+
+# Opdracht 1
+
+<img src="">
+
+Hier zie je opdracht 1, --- TBD ---
