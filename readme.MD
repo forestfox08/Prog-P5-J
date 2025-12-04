@@ -4,7 +4,7 @@
 
 Opdracht 1 
 
-[Script](https://github.com/forestfox08/Prog-P5-J/tree/master/Assets/Scripts/Opdracht1)
+[Script](https://github.com/forestfox08/Prog-P5-J/tree/master/Assets/Scripts/p5/Opdracht1)
 
 # Opdracht 2
 
@@ -12,7 +12,7 @@ Opdracht 1
 
 Opdracht 2
 
-[Script](https://github.com/forestfox08/Prog-P5-J/tree/master/Assets/Scripts/Opdracht2)
+[Script](https://github.com/forestfox08/Prog-P5-J/tree/master/Assets/Scripts/p5/Opdracht2)
 
 # Opdracht 3
 
@@ -20,7 +20,7 @@ Opdracht 2
 
 Opdracht 3
 
-[Script](https://github.com/forestfox08/Prog-P5-J/tree/master/Assets/Scripts/Opdracht3)
+[Script](https://github.com/forestfox08/Prog-P5-J/tree/master/Assets/Scripts/p5/Opdracht3)
 
 # Opdracht 4
 
@@ -32,7 +32,7 @@ Scoreboard staat niet op de gif maar dat is nu gefixt!
 
 Opdracht 4
 
-[Script](https://github.com/forestfox08/Prog-P5-J/tree/master/Assets/Scripts/Opdrach4)
+[Script](https://github.com/forestfox08/Prog-P5-J/tree/master/Assets/Scripts/p5/Opdrach4)
 
 # Opdracht 5
 
@@ -43,12 +43,13 @@ Heb gekeken wat het was maar kon het probleem niet identificeren via breakpoints
 (niet mythe project trouwens, dit is mijn TD game)
 
 
-## PERIODE 2, JAAR 2
+## PERIODE 2/M6
 
 # Opdracht 1
 
 <img src="">
 
+<<<<<<< HEAD
 Hier zie je opdracht 1, --- TBD ---
 
 # Opdracht 2
@@ -238,3 +239,9 @@ classDiagram
     TowerInformation --> TowerSpeed
 
 ```
+=======
+
+Hier zie je opdracht 1, --- TBD ---
+
+
+>>>>>>> 45d60fa3ae0cdd662e2e82d7b8213031bde6abf0
